@@ -1,6 +1,6 @@
 # Chatbot de Automatización de Procesos - Josenails
 
-Este proyecto consiste en un simulador interactivo desarrollado en Python para la automatización del proceso administrativo crítico de reserva de turnos y consulta de servicios en el salón "josenails"[cite: 18, 46].
+Este proyecto consiste en un simulador interactivo desarrollado en Python para la automatización del proceso administrativo crítico de reserva de turnos y consulta de servicios en el salón "josenails".
 
 ## Requisitos del Sistema
 - Python 3.x instalado de forma local.
